@@ -1,0 +1,1 @@
+ALTER TABLE Watch ADD COLUMN Repeat_state BOOLEAN;
